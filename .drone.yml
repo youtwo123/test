@@ -1,0 +1,5 @@
+image: python
+script:
+ - python #!/bin/bash
+   .py
+ - echo "Build has been completed."
